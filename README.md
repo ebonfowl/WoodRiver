@@ -8,6 +8,8 @@ Welcome to class! We will take the next 6 weeks to complete a group project to f
 
 ## A Project to Identify and Search Student Parameters within the College of Idaho Scholarship Database
 
+**Names:** Sabuhi, Shannen
+
 **Summary:** This project will first identify common student parameters (need-based, scholastic performance, etc.) within the descriptions found in the C of I scholarship database. Once a list of parameters is identified, we will create an interface that allows C of I financial aid personnel to quickly identify scholarship opportunities for students based on their individual characteristics. This project is needed because the College currently relies on institutional knowledge and an antiquated system of spreadsheets to assign scholarships to students increasing the risk that scholarships are not offered to optimal candidates or go completely unassigned. Unassigned scholarships negatively impact both the students who need the funds to offset educational costs and the College which benefits from the infusion of restricted funds into its budget. This project will also establish the opportunity for a second stage where an application can be developed to deterministically optimize the assignment of scholarships to students based on individual parameters.
 
 ### Project Timeline

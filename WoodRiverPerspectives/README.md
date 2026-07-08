@@ -12,7 +12,7 @@ The author of [this article](https://www.idahoednews.org/news/blaine-county-rede
 This [feature](https://www.spokesman.com/stories/2022/may/03/nowhere-to-go-eviction-of-11-latino-families-sheds) describes how the Ketchum housing crunch we spoke about in class is displacing residents on the lower end of the income spectrum.
 
 ## Feature Articles
-[Hemingway's Ketchum](https://sunvalleymag.com/articles/hemingways-ketchum) tells the story of Ernest Hemingway's last place of residence and final resting place and his place in the lore of Blaine County.
+[Hemingway's Ketchum](https://sunvalleymag.com/articles/hemingways-ketchum) tells the story of Ernest Hemingway's last place of residence and final resting place, illustrating his place in the lore of Blaine County.
 
 ## Oral Histories
 Oral histories describing life in Blaine County crica the early 1900s can be found at the [Community Library Digital Collection](https://rhd.thecommunitylibrary.org/luna/servlet/view/all?sort=identifier). These histories chronicle the lived experiences of the inhabitants of the Wood River valley, drawing upon the accounts of low income shepherds and afluent residents alike. *If the link takes you to a different place on the website, navigate to Collections > Wood River Valley Oral Histories.*
